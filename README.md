@@ -1,6 +1,6 @@
 # Análise de Vendas - Lojas Ferao.Distrib LTDA (2017-2019)
 * Neste Dashboard, analisamos tendências de vendas utilizando DAX e algumas modificações no Power Query para facilitar o desenvolvimento de métricas, KPIs e Dashboard.
-
+* link para relatório no Power Bi Service https://app.powerbi.com/view?r=eyJrIjoiZThhMzQwM2ItNDExYS00NjBjLThlYTctYTJmYTUzMmFhMmFmIiwidCI6IjM1ZmZkMDk1LTM4MWQtNDA3MC1hOGM1LTIwOGJhYzgzNTMwOSJ9
 # Pág1/Pág2 - Análise de Produtos
 
 *  Filtros laterais com hierarquia de data, cidade, grupo, supervisor, gerente, vendedor e limpador de segmentação (todos sincronizados).
